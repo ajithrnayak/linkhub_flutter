@@ -1,4 +1,4 @@
-# linkhub_flutter
+# LinkHub
 
 A simple Bookmark App for didactic purposes.
 
